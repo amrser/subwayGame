@@ -4,7 +4,7 @@ A small and simple game built using HTML, CSS, and JS. It has an increasing coun
 ## Developer 
 name: Amro Alser
 GitHub name: amrser
-
+ 
 ## 🛠️ Built With
 
 - HTML5
